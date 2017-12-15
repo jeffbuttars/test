@@ -1,0 +1,18 @@
+# Lesson 2
+
+Now that we've had the RoboCode introduction we need to have an Eclipse introduction.
+
+What's Eclipse?
+What's an IDE?
+Why and IDE?
+What's a text editor?
+What's the difference between a text editor and an IDE?
+    Why use a text editor then?
+
+There are lot's of IDEs available, why use Eclipse?
+    It's very popular, lot's of docs.
+    It's open source.
+    It's what's documented by FIRST Robotics.
+    But it's not necessarily the best.
+
+

@@ -1,0 +1,10 @@
+
+### Lesson 2
+
+* Eclipse intro?
+    * Install?
+    * Follow the Eclipse hello world tutorial
+* Go straight into using Eclipse with FRC?
+* More coding howto ?
+    * RoboCode
+    * Codecademy
